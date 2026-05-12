@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# auth-dashboard-react
+Projeto desenvolvido em React simulando um sistema de autenticação com tela de login, cadastro de usuários e dashboard administrativo, utilizando React Router para navegação entre páginas e gerenciamento de interface moderna.
+>>>>>>> fda985512b3031f0d25ebacb7ae2f0cdc090bfa8
